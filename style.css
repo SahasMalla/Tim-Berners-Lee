@@ -43,6 +43,13 @@ h2 {
     padding-bottom: 5px;
     font-family: 'Dancing Script', cursive;
 }
-.link:hover{
+
+.link:hover {
     background-color: chocolate;
+}
+#email{
+    color: firebrick;
+}
+.mail{
+    background-color: cornflowerblue;
 }
